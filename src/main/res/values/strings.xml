@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProductApp</string>
+    <string name="tab_dots_description">Product image gallery indicator dots</string>
+</resources>
